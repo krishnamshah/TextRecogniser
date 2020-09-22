@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextRecogniser</string>
+    <string name="choose">Choose</string>
+    <string name="image">image</string>
+</resources>

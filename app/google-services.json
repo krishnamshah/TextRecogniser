@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815651832327",
+    "firebase_url": "https://text-recognizer-krsna.firebaseio.com",
+    "project_id": "text-recognizer-krsna",
+    "storage_bucket": "text-recognizer-krsna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815651832327:android:a4b553e3e6effe53f1e0a2",
+        "android_client_info": {
+          "package_name": "com.krsna.textrecogniser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815651832327-op5d984kclh45lqhuk67gifqv3csrcbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVMBwJvio4H4xKx5AB0KbsJSUYnjR31_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815651832327-op5d984kclh45lqhuk67gifqv3csrcbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
